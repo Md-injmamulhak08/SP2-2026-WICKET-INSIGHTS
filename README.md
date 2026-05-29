@@ -4,10 +4,11 @@
 **Team Name:** Wicket Insights  
 
 ### Team Members
-* **Vibashini S** - [Year, 1st] - [Department, e.g., CSE]
-* **[Teammate 2 Name]** - [Year] - [Department]
-* **[Teammate 3 Name]** - [Year] - [Department]
-*(Remove or add bullet points if you have more/fewer members)*
+* **Vibashini S** - [Year, 1st] - [Department, Computer Science and Engineering(CSE)]
+* **Md Injmamul Hak** - [Year, 1st] - [Department, Computer Science and Engineering(CSE)]
+* **Swathi T** - [Year, 1st] - [Department, Computer Science and Engineering(CSE)]
+* **Menika Kumari Tiwari** - [Year, 1st] - [Department, Computer Science and Engineering(CSE)]
+
 
 ### Libraries Used
 * **`pandas`** (Data manipulation and chronological window functions)
