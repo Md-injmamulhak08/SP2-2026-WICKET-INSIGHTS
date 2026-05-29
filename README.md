@@ -4,10 +4,10 @@
 **Team Name:** Wicket Insights  
 
 ### Team Members
-* **Vibashini S** - [Year, 1st] - [Department, Computer Science and Engineering(CSE)]
-* **Md Injmamul Hak** - [Year, 1st] - [Department, Computer Science and Engineering(CSE)]
-* **Swathi T** - [Year, 1st] - [Department, Computer Science and Engineering(CSE)]
-* **Menika Kumari Tiwari** - [Year, 1st] - [Department, Computer Science and Engineering(CSE)]
+* **Vibashini S** - Year, 1st - Computer Science and Engineering(CSE)
+* **Md Injmamul Hak** -Year, 1st - Computer Science and Engineering(CSE)
+* **Swathi T** - Year, 1st - Computer Science and Engineering(CSE)
+* **Menika Kumari Tiwari** - Year, 1st - Computer Science and Engineering(CSE)
 
 
 ### Libraries Used
